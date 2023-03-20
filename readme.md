@@ -1,3 +1,3 @@
 # Demo
 
-Welcome 
+Lets learn about git!
